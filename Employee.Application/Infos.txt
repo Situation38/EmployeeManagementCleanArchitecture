@@ -1,0 +1,10 @@
+﻿
+*************************************************************
+Info Couche Application Data
+*************************************************************
+
+Nous allons maintenant passer à la " couche application ". 
+Ici, dans la couche application, nous séparerons les requêtes de la commande,
+nous allons donc implémenter CQRS ici. Par conséquent,
+nous allons créer des dossiers dans le projet Application Layer.
+
